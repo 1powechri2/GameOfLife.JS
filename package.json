@@ -1,0 +1,19 @@
+{
+  "name": "nodestuff",
+  "version": "1.0.0",
+  "description": "for Node stuff",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "jest": "^24.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Me",
+  "license": "ISC"
+}
